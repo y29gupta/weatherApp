@@ -1,20 +1,11 @@
-
+import logo from './logo.svg';
+import './App.css';
 import Temp from './component/Temp';
-// import Check from './Check';
-// import Ex from './component/Ex';
-// import UserApi from "./API/UserApi";
 
 function App() {
   return (
-  
-   
-    <>
-      
-      
+
      <Temp/>
-    </>
- 
-  
   );
 }
 
